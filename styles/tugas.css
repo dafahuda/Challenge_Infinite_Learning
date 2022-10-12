@@ -1,0 +1,24 @@
+body {
+    text-align: start;
+}
+
+table,
+th,
+td {
+    margin: 20px 35%;
+    text-align: center;
+    border: 1px solid #000000;
+    border-spacing: 1px;
+    border-collapse: separate;
+}
+
+th,
+td {
+    width: 100px;
+    height: 30px;
+}
+
+.hijau {
+    background-color: #e4a342;
+    color: #ffff;
+}

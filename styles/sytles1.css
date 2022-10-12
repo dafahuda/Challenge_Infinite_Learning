@@ -1,0 +1,36 @@
+body {
+    text-align: start;
+}
+
+.container {}
+
+.title1 {
+    font-weight: bold;
+    padding: 10%;
+    background-color: #b696f0;
+}
+
+.title2 {
+    font-style: italic;
+}
+
+table,
+th,
+td {
+    margin-left: 35%;
+    text-align: center;
+    border: 1px solid #000000;
+    border-spacing: 1px;
+    border-collapse: separate;
+}
+
+th,
+td {
+    width: 100px;
+    height: 30px;
+}
+
+.hijau {
+    background-color: #e4a342;
+    color: #ffff;
+}
